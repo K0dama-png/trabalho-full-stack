@@ -1,0 +1,19 @@
+footer {
+  border: 1px solid #ccc;
+  padding: 1em;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(63, 166, 207);
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(63, 166, 207);
+}
